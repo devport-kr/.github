@@ -9,7 +9,7 @@ HashNode, Medium, Reddit 등 해외 개발 커뮤니티 곳곳에 흩어진 정�
 
 -----------
 
-[DevPort 바로가기](https://devport.kr)
+[devPort 바로가기](https://devport.kr)
 
 혹시 도움이 되었다면 Star를 눌러주세요. ⭐️  
 작은 관심이 서비스 운영에 큰 힘이 됩니다! 감사합니다. :)
